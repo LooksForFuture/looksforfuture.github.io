@@ -1,2 +1,2 @@
 # looksforfuture.github.io
-My personal blog
+My personal blog. Enjoy.
